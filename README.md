@@ -15,3 +15,5 @@ This project implements a Python-based system to convert detailed natural langua
 - Python 3.7+  
 - Libraries: spacy, transformers (for BERT and other transformer models), pyyaml, ipywidgets, nltk, optuna  
 - SpaCy English model: `en_core_web_sm`
+
+<img width="382" height="1125" alt="image" src="https://github.com/user-attachments/assets/8017b0a3-faa8-4f40-bfc4-c1457e7f3b07" />

@@ -1,4 +1,4 @@
-# Natural-Language-to-ODD-YAML-Converter
+# Natural Language to ODD YAML Converter
 
 This project implements a Python-based system to convert detailed natural language descriptions about Operational Design Domains (ODD) into structured, hierarchical YAML format. It leverages advanced Natural Language Processing (NLP) techniques including SpaCy for efficient tokenization and lemmatization, and pre-trained BERT models for Named Entity Recognition (NER) to accurately identify key domain entities. Flexible Python dataclass models represent the various ODD entities, enabling organized and extensible data modeling.
 

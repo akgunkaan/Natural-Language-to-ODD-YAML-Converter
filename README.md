@@ -9,7 +9,7 @@ This project implements a Python-based system to convert detailed natural langua
 - **Structured Modeling:** Converts extracted data into detailed Python dataclasses capturing environmental, vehicle, operational, and sensor conditions.  
 - **YAML Export:** Outputs the structured ODD data in a human-readable and hierarchical YAML format.  
 - **Extensible Architecture:** Easily extendable for additional entity types, relationships, or sector-specific logic.  
-
+<!-- 
 ## AI Models and Services Used
 
 | AI Service / Model            | Capability Provided                                           | Library Used              |
@@ -17,7 +17,7 @@ This project implements a Python-based system to convert detailed natural langua
 | spaCy – en_core_web_sm       | NLP preprocessing, POS tagging, dependency parsing, lemmatization | spaCy                     |
 | dslim/bert-base-NER          | Named Entity Recognition (NER)                                | HuggingFace Transformers  |
 | Transformers Pipeline (ner)  | Prebuilt NER pipeline service                                 | HuggingFace Transformers  |
-
+ -->
 
 ## Usage Example
 
